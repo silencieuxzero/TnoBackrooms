@@ -5,6 +5,7 @@ from tkinter import scrolledtext
 from tkinter import Tk, simpledialog, messagebox
 import idx
 import webbrowser as web
+#导入模块
 
 
 class MainApp:
