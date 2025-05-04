@@ -207,7 +207,7 @@ class PoliticalPanel(BasePage):
         """同时执行两个操作的组合函数"""
         self.open_child_window_mediumstable()  # 弹出子窗口
 
-    # 稳定度事件
+    # 稳定度事件medium
     def open_child_window_mediumstable(self):
         """ 弹出子窗口 """
         child_window_mediumstable = tk.Toplevel(self)  # 创建子窗口
