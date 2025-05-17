@@ -1,5 +1,6 @@
 import os
 import tkinter as tk
+import ttkbootstrap as ttk
 from struct import pack
 from tkinter import scrolledtext
 from tkinter import Tk, simpledialog, messagebox
